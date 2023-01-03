@@ -8,3 +8,4 @@ chapter04/recursive_function_to_sum
 chapter04/greatest_common_divisor
 chapter04/fibonacci_sequence
 chapter04/fibo_with_for_loop
+chapter04/memoized_fibo
